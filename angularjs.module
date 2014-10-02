@@ -110,7 +110,7 @@ function angularjs_version_files($version = NULL) {
     'angular-touch' 
   );
 
-  $files['1.2.5'] = array(
+  $files['1.2.26'] = array(
     'angular-animate',
     'angular-cookies',
     'angular-loader',

@@ -14,7 +14,7 @@ function angularjs_settings_form($form, &$form_state) {
       '1.0.8' => '1.0.8',
       '1.1.5' => '1.1.5',
       '1.2.0' => '1.2.0',
-      '1.2.5' => '1.2.5',
+      '1.2.26' => '1.2.26',
     ),
     '#default_value' => variable_get('angularjs_version', ANGULARJS_DEFAULT_VERSION),
     '#description' => t("Select which version of AngularJS that's used on the site"),
